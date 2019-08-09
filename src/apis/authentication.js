@@ -4,6 +4,7 @@ import {api} from '@/assets/api'
 let baseExcelurl = `${api.api}/gw/personalCenter/musServer/musServer.svr`
 let baseWordurl = `${api.api}/gw/personalCenter/per`
 // http://192.168.23.91:8081/gw/personalCenter/per
+// http://192.168.23.91:8081/gw/personalCenter/per
 // let baseWordurl = 'http://192.168.23.76:8099'
 
 //职业类型查询
